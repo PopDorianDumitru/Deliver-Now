@@ -1,0 +1,2 @@
+Pop Dorian;principala,bulevard;3;4;7
+Uriesu Iulius;bulevard;8;3;2

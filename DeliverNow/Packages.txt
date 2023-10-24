@@ -1,0 +1,8 @@
+Ion;principala;3;5;6;true
+Marga;bulevard;4;7;7;true
+Ion;bulevard;3;3;4;false
+Maria;new street;6;3;4;false
+Ionel;principala;100;100;100;false
+Ioana;new street;100;100;100;false
+Dorian;bulevard;30;3;4;true
+Leo;bulevard;30;100;150;false
