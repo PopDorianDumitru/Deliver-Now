@@ -28,7 +28,7 @@
   <p align="center">
     An application that allows a delivery company to easily manage orders.
     <br />
-    <a href="https://github.com/PopDorianDumitru/SocialMediaFlutter"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/PopDorianDumitru/Deliver-Now"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/PopDorianDumitru/Deliver-Now/issues">Report Bug</a>
@@ -113,7 +113,7 @@ Don't forget to give the project a star! Thanks again!
 
 Pop Dorian-Dumitru - [@LinkedIn](https://www.linkedin.com/in/pop-dorian-738290256/) - dorianpop1512@gmail.com
 
-Project Link: [https://github.com/PopDorianDumitru/SocialMediaFlutter](https://github.com/PopDorianDumitru/SocialMediaFlutter)
+Project Link: [https://github.com/PopDorianDumitru/Deliver-Now](https://github.com/PopDorianDumitru/Deliver-Now)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
