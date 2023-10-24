@@ -59,7 +59,8 @@
 
 ## About The Project
 
-The app makes it easy for a delivery company to manage its orders by giving each driver their own window in which they can see the closest orders or the orders on their respective streets. The company will have a main window in which it can see every delivery that needs to be made and the ones which have already been made. Both the driver's window and the companies window are updated in real-time with the help of the Observer design pattern. There is also a simple map available to the company where the deliveries which haven't been finished are placed in terms of their coordinates.
+The app makes it easy for a delivery company to manage its orders by giving each driver their own window in which they can see the closest orders or the orders on their respective streets. The company will have a main window in which it can see every delivery that needs to be made and the ones that have already been made. My adherence to Object-Oriented Programming principles and layered architecture ensures a reliable repository for data management and a service that efficiently delivers essential information to the users. There is also a simple map available to the company where the deliveries which haven't been finished are placed in terms of their coordinates. I am also using the power of the Observer design pattern to ensure both drivers and the company have up-to-the-minute insights into delivery statuses and locations.
+
 
 For this application I respected the principles of OOP and layered architecture, by using a repository, which keeps track of the packages and only has CRUD operations and a service, which uses the information from the repository to deliver important information to the users. The GUI was built using the Qt Framework, which is known for its cross-platform capabilities.
 
